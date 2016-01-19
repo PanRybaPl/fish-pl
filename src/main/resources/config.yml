@@ -1,0 +1,41 @@
+materials:
+  IRON_ORE:
+    - ruda zelaza
+    - rudy zelaza
+    - rudzie zelaza
+    - rude zelaza
+    - ruda zelaza
+    - rudzie zelaza
+    - rudo zelaza
+  DIAMOND_ORE:
+    - ruda diamentu
+    - rudy diamentu
+    - rudzie diamentu
+    - rude diamentu
+    - ruda diamentu
+    - rudzie diamentu
+    - rudo diamentu
+  LAPIS_ORE:
+    - ruda lapisu
+    - rudy lapisu
+    - rudzie lapisu
+    - rude lapisu
+    - ruda lapisu
+    - rudzie lapisu
+    - rudo lapisu
+  REDSTONE_ORE:
+    - ruda redstone
+    - rudy redstone
+    - rudzie redstone
+    - rude redstone
+    - ruda redstone
+    - rudzie redstone
+    - rudo redstone
+  GOLD_ORE:
+    - ruda zlota
+    - rudy zlota
+    - rudzie zlota
+    - rude zlota
+    - ruda zlota
+    - rudzie zlota
+    - rudo zlota
